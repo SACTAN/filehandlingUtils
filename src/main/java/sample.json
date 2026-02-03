@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Alice",
+    "address": {
+      "city": "London"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Bob",
+    "address": {
+      "city": "Paris"
+    }
+  }
+]
