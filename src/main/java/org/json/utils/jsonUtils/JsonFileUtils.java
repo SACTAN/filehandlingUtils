@@ -1,4 +1,4 @@
-package org.json.utils;
+package org.json.utils.jsonUtils;
 
 import com.example.jsonutils.exceptions.JsonUtilsException;
 import java.io.File;
